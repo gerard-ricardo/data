@@ -1,49 +1,49 @@
-treat	suc	tot
-whi	7	30
-whi	5	30
-whi	7	30
-whi	9	30
-whi	10	30
-whi	1	30
-dre	5	30
-dre	8	30
-dre	1	30
-dre	2	30
-dre	3	30
-dre	0	30
-blue	9	30
-blue	4	30
-blue	8	30
-blue	7	30
-blue	7	30
-blue	1	30
-red	22	30
-red	20	30
-red	6	30
-red	3	30
-red	18	30
-red	15	30
-whi	9	30
-whi	5	30
-whi	7	30
-whi	10	30
-whi	11	30
-whi	1	30
-dre	6	30
-dre	8	30
-dre	1	30
-dre	2	30
-dre	4	30
-dre	1	30
-blue	9	30
-blue	5	30
-blue	9	30
-blue	7	30
-blue	8	30
-blue	1	30
-red	23	30
-red	18	30
-red	11	30
-red	3	30
-red	20	30
-red	13	30
+treat	suc	tot	time
+whi	7	30	12h
+whi	5	30	12h
+whi	7	30	12h
+whi	9	30	12h
+whi	10	30	12h
+whi	1	30	12h
+dre	5	30	12h
+dre	8	30	12h
+dre	1	30	12h
+dre	2	30	12h
+dre	3	30	12h
+dre	0	30	12h
+blue	9	30	12h
+blue	4	30	12h
+blue	8	30	12h
+blue	7	30	12h
+blue	7	30	12h
+blue	1	30	12h
+red	22	30	12h
+red	20	30	12h
+red	6	30	12h
+red	3	30	12h
+red	18	30	12h
+red	15	30	12h
+whi	9	30	24h
+whi	5	30	24h
+whi	7	30	24h
+whi	10	30	24h
+whi	11	30	24h
+whi	1	30	24h
+dre	6	30	24h
+dre	8	30	24h
+dre	1	30	24h
+dre	2	30	24h
+dre	4	30	24h
+dre	1	30	24h
+blue	9	30	24h
+blue	5	30	24h
+blue	9	30	24h
+blue	7	30	24h
+blue	8	30	24h
+blue	1	30	24h
+red	23	30	24h
+red	18	30	24h
+red	11	30	24h
+red	3	30	24h
+red	20	30	24h
+red	13	30	24h

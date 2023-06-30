@@ -10,7 +10,7 @@ theme_sleek3 <- function(base_size = 15, base_family = "") {
       strip.text.y = element_text(colour = "grey20"),
       #strip.placement	 = "inside", 
       strip.switch.pad.grid = unit(2, "cm"), 
-      axis.text = element_text(colour = "grey20", size = 11),
+      axis.text = element_text(colour = "grey20", size = 12),
       axis.title = element_text(colour = "grey20"),
       legend.title = element_text(colour = "grey20", size = rel(0.9)),
       panel.border = element_rect(fill = NA, colour = "grey20", size = 0.5),

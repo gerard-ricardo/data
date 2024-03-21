@@ -13,7 +13,7 @@ theme_sleek2 <- function(base_size = 13, base_family = "") {
       axis.text = element_text(colour = "grey20", size = 11),
       axis.title = element_text(colour = "grey20"),
       legend.title = element_text(colour = "grey20", size = rel(0.9)),
-      panel.border = element_rect(fill = NA, colour = "grey20", size = 0.5),
+      panel.border = element_rect(fill = NA, colour = "grey20", linewidth = 0.5),
       legend.key.size = unit(0.9, "lines"),
       legend.text = element_text(size = rel(0.7), colour = "grey20"),
       legend.key = element_rect(colour = NA, fill = NA),
